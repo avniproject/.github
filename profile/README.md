@@ -7,3 +7,5 @@ Website: https://avniproject.org/
 Documentation : https://avni.readme.io/docs
 
 Avni YouTube channel : https://www.youtube.com/channel/UCShsfKJlw0B3B6Pg2DmQkSQ
+
+Discord : https://discord.gg/4pcgcQW8pk
